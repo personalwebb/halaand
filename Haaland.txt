@@ -1,0 +1,85 @@
+<html>
+    <head>
+        <title> Haaland</title>
+        <link rel="stylesheet" type="text/css" href="estilos.css">
+    </head>
+    <body>
+        <header>
+            Haaland
+        </header>
+        <h1>
+            historia de Haaland
+        </h1>
+        <p> naci&oacute; el 21 de julio de 2000 en leeds, ingraterra, 
+            reino unido.
+            <br>
+            Familia
+            <br>
+            En la fecha de su nacimiento su padre, el futbolista ALF 
+            LEEDS united y Manchester city como mediocampista defencivo
+            en la Premier league. se inici&oacute; deportivamente practicandoatletismo.
+            tuvo el record del mundo de asalto de longitug con cinco 
+            años tras saltar 1,63m. se crio en un pueblo llamando Bryne
+            jugando en campos de futbol de pabell&oacute;n cubierto 
+            practico ademas balonmano y esqui de fondo hasta los catorce
+            años.  
+        </p>
+        <p> Haaland es reconocido por su explosividad, velocidad y contundencia
+            ante porter&iacute;a contraria. con una estatura de 1,94 se mueve como si su 
+            centro de gravedad fuera el de un futbolista de baja estatura. Haaland tiene
+            amplietud de zancada, frecuencia de un velocista, y el control de centro de gravedad propio
+            de un jugador de 1,65 para girar en angulos agudisismos. A esto añade su sombra 
+            capacidad para asociarse con el resto del equipo.
+            en el futbol comenzo en la acdemia del Bryne F.K. Durante las temporadas 2015 y
+            2016, jug&oacute; en el equipo reserva anotando 18 tantos en 14 partidos.
+            El 12 de mayo de 2016 debuto con el primera division contra El Ranheim. tenia quince años.
+            EL Molde F.K.anunc&iacute;o su fichaje en febrero se 2017, equipo con el debut&oacute; el
+            26 de abril de 2017 en la copa de noruega jugando contra el Volda TI y anotando su primer 
+            gol en la victoria por 3-2.
+            Debuto en la liga el 4 de junio de 2017 frente al sarpsborg 08 FF, entrando al campo en el 71
+            Marc&oacute; el gol de la victoria en el minuto 77, su primer gol en Eliserien. su segundo tanto
+            fue en el 17 de septiembre jugando contra el viking stavanger FK.
+        </p> 
+        <p>
+            en el futbol comenzo en la acdemia del Bryne F.K. Durante las temporadas 2015 y
+            2016, jug&oacute; en el equipo reserva anotando 18 tantos en 14 partidos.
+            El 12 de mayo de 2016 debuto con el primera division contra El Ranheim. tenia quince años.
+            EL Molde F.K.anunc&iacute;o su fichaje en febrero se 2017, equipo con el debut&oacute; el
+            26 de abril de 2017 en la copa de noruega jugando contra el Volda TI y anotando su primer 
+            gol en la victoria por 3-2. Debuto en la liga el 4 de junio de 2017 frente al sarpsborg 08
+            FF, entrando al campo en el 71 Marc&oacute; el gol de la victoria en el minuto 77, su primer
+            gol en Eliserien. su segundo tanto fue en el 17 de septiembre jugando contra el viking stavanger FK.
+         </p>
+        <p>
+            Haaland marc&oacute; cuatro tantos en los primeros 21 minutos del partido el de julio de 2018 
+            contra el SK Brann l&iacute;deres invictos de la liga hasta entonces. En el siguiente partido, jugado
+            el 8 de julio, hizo dos goles y dio una asistencia en la victoria por 5-1 contra el valerenga Fotball.
+            El 26 de jilio marco de penalti en la victoria del Molde, en la liga Europea de la UEFA, contra el
+            K.F. Laci (3-0).
+        </p>
+        <p> Finalizo la temporada como maximo goleador del Molde con 16 goles en 30 minutos en todas las competenciones
+            y recibio el premio a la mejor aparicion del año por sus actuaciones en la Elisteserien 2018. El 19 de agosto
+            el Red bull salzburgo anunci&oacute; su fichaje efectivo a partir del 1 de enero en la primera temporada 
+            jug&oacute; cinco partidos, en los que logro un tanto frente al LASK Linz el 12 de mayo consigui&oacute;
+            un hat- trick frente al Genk (6-2) el 17 de septiembre de 2019, jornada inaugura de la Liga de Campeones.
+            consigui&oacute; anotar en sus primeros cinco partidos de la Liga de Campeones ocho goles, igualando el record 
+            de Alwssandro del piero de 1995
+        </p>
+        <p> Borussia Dortmund
+            <br>
+            El 29 de diciembre de 2019 se hizo oficial su traspaso al Borussia Dortmund por unos 20 millones de euros
+            Hizo su debut en Bundesliga el 18 de enero contra el Augsburg (3-5), logrando un hat-trick en apenas veinte minutos
+            y durante la siguiente jornada hizo doblete frente al FC Koln, convirti&eacute;ndose en el futbolista m&aacute;s 
+            r&aacute;pido de la historia de la Bundeslisa en lograr cinco tantos (56 minutos). El 18 de febrero marco los dos 
+            goles de triunfo (2-1) frente el psg en la ida de los octavos de final y el 16 de mayo marco el primer tanto del
+            encuentro ante el FC Schalke (4-0). 
+        </p>
+        <p> con 20 años, el noruego se converti&oacute; en el jugador m&aacute;s joven en lograr 15 goles en sus primeros 12
+            partidos en champions, la mitad con el salzburgo y la otra con el Dortmund. con 16 tantos supera a Mbapp&eacute; y a 
+            Messi. En 2020 Erling Haaland es uno de los jugadores con mayor proteccion del mundo. Grandes clubes se interesan cara 
+            a un futuro traspaso, entre ellos el Futbol club Barcelona y el Real Madrid. El 2 de diciembre de 2020, el Borussia anunci&oacute; su lesi&oacute;n en el tendo de la corva, que lo mantendr&iacute;a fuera de acci&oacute;n hasta enero
+            de 2021. Regres&oacute; jugando contra el VfL Wolfsburgo el 3 de enero. marco dos goles ante el Leipzig en la victoria
+            por 3-1 el 9 de enero y otros doblete en la derrota por 2-4 del Dortmund ante el Borussia Monchegladbach el 22 de enero
+        </p>
+    </body>
+</html>
